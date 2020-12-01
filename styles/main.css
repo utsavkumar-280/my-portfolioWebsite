@@ -42,8 +42,6 @@ a {
     background: var(--primary);
     border-radius: 0.5rem;
     color: white;
-    min-width: 5rem;
-    
 }
 
 .link-secondary {
