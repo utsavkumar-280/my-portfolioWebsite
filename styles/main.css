@@ -66,12 +66,12 @@ a {
 }
 
 .navigation .active {
-  font-weight: bolder;
+  font-weight: 700;
 }
 
 .navigation .logo {
   font-size: 2rem;
-  font-weight: bolder;
+  font-weight: 700;
   color: var(--white);
   flex: 3 1 auto;
 }
