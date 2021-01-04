@@ -94,7 +94,7 @@ a {
 }
 
 .container-center {
-  max-width: 650px;
+  max-width: 750px;
   margin: auto;
 }
 
@@ -130,6 +130,8 @@ section {
 
 .list-non-bullet {
   list-style: none;
+  margin: 0;
+  padding: 0.5rem;
 }
 
 .list-item-inline {
